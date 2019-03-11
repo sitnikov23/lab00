@@ -17,35 +17,35 @@
 ## Tutorial
 Проверка окружения для разработки (`cmake`, `curl`, `git`, `g++`, `hub`, `make`, `subl`, `tree`, `wget`, `openssl` )
 ``` Shellsession
-# check development environment
-# Проверка версии cmake
+#check development environment
+#Проверка версии cmake
 $ cmake --version
 cmake version 3.14.0-rc1
-# Проверка версии curl
+#Проверка версии curl
 $ curl --version
 curl 7.41.0 (i686-pc-cygwin) libcurl/7.41.0 OpenSSL/1.0.2a zlib/1.2.8 libidn/1.29 libssh2/1.5.0
-# Проверка версии git
+#Проверка версии git
 $ git --version
 git version 2.1.4
-# Проверка версии g++
+#Проверка версии g++
 $ g++ --version
 g++.exe (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
-# Проверка версии hub
+#Проверка версии hub
 $ hub --version
 hub version 2.8.4
-# Проверка версии make
+#Проверка версии make
 $ make --version
 Built for i686-pc-cygwin
-# Проверка версии subl
+#Проверка версии subl
 $ subl --version
 Sublime Text Build 3176
-# Проверка версии tree
+#Проверка версии tree
 $ tree --version
 tree v1.7.0
-# Проверка версии wget
+#Проверка версии wget
 $ wget --version
 GNU Wget 1.16.3 built on cygwin.
-# Проверка версии openssl
+#Проверка версии openssl
 $ openssl version
 OpenSSL 1.0.2a 19 Mar 2015
 ```
