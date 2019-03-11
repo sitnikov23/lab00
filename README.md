@@ -16,8 +16,8 @@
 
 ## Tutorial
 Проверка окружения для разработки (`cmake`, `curl`, `git`, `g++`, `hub`, `make`, `subl`, `tree`, `wget`, `openssl` )
-
-# check development environment\
+``` Shellsession
+# check development environment
 # Проверка версии cmake
 $ cmake --version
 cmake version 3.14.0-rc1
